@@ -695,6 +695,13 @@
       "githubUrl": "https://github.com/Slimefun"
     },
     {
+      "logo": "svelte.svg",
+      "title": "Svelte",
+      "quote": "We use Discord to communicate with the wider community, answer questions as well as organise events.",
+      "inviteCode": "svelte",
+      "githubUrl": "https://github.com/sveltejs"
+    },
+    {
       "logo": "deno.png",
       "title": "Deno",
       "quote": "Community engagement has been a lot more active since we moved to Discord from Gitter.",
